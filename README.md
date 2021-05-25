@@ -3,8 +3,9 @@
 Welcome to my Github profile! 
 
 ## 📱 Socials
-[<img src="https://raw.githubusercontent.com/elliott-leow/elliott-leow/master/Instagram_AppIcon_Aug2017.png" height="40em" align="center" alt="Follow elliottleow on Instagram" title="Follow elliottleow on Instagram"/>](https://instagram.com/elliottleow) Follow me on Instagram!
+[<img src="https://raw.githubusercontent.com/elliott-leow/elliott-leow/master/Instagram_AppIcon_Aug2017.png" height="40em" align="center" alt="Follow elliottleow on Instagram" title="Follow elliottleow on Instagram"/>](https://instagram.com/elliottleow)  Follow me on Instagram!
 
+[<img src="https://raw.githubusercontent.com/elliott-leow/elliott-leow/master/Discord-Logo-Color.png" height="40em" align="center" alt="Add quirple#8948 on Discord" title="Add quirple#8948 on Discord"/>]  Add quirple#8948 on Discord!
 <!--
 **elliott-leow/elliott-leow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
