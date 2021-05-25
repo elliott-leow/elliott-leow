@@ -2,7 +2,7 @@
 
 Welcome to my Github profile! 
 
-## 📱 Socials
+## 📱 Connections
 [<img src="https://raw.githubusercontent.com/elliott-leow/elliott-leow/master/Instagram_AppIcon_Aug2017.png" height="40em" align="center" alt="Follow elliottleow on Instagram" title="Follow elliottleow on Instagram"/>](https://instagram.com/elliottleow)⠀ Instagram: elliottleow
 
 <img src="https://raw.githubusercontent.com/elliott-leow/elliott-leow/master/Discord-Logo-Color.png" height="40em" align="center" alt="Add quirple#8948 on Discord" title="Add quirple#8948 on Discord"/>⠀ Discord: quirple#8948 
